@@ -4,16 +4,19 @@ To Run :
     ```
     git clone https://github.com/amarpakhare/Osumare_Backend.git
     ```
+    <br>
     ```
     cd Osumare_Backend
     ```
+     <br>
     ```
     npm install
     ```
+     <br>
     ```
     npm run dev
     ```
-
+     <br>
 
 
 1.GET /tasks?page=1&limit=5&sort=title&order=asc&filter=important
