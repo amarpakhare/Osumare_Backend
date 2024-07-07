@@ -1,5 +1,21 @@
 This NodeJS API allow users to perform basic CRUD (Create, Read, Update, Delete) operations on tasks.
 
+To Run : 
+    ```
+    git clone https://github.com/amarpakhare/Osumare_Backend.git
+    ```
+    ```
+    cd Osumare_Backend
+    ```
+    ```
+    npm install
+    ```
+    ```
+    npm run dev
+    ```
+
+
+
 1.GET /tasks?page=1&limit=5&sort=title&order=asc&filter=important
 ```json
 [
